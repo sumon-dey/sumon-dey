@@ -1,6 +1,6 @@
 # My Portfolio Website: [[www.sumondey.com](http://www.sumondey.com)]
 
-## 👨🏻‍💻 🇮🇳 Who am I
+## Who am I
 
 ### Hi, I am Sumon Dey 👋
 

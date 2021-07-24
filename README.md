@@ -1,10 +1,17 @@
 # My Portfolio Website: [[www.sumondey.com](http://www.sumondey.com)]
 
+## 👨🏻‍💻 🇮🇳 Who am I
+
 ### Hi, I am Sumon Dey 👋
 
-I am a Software engineer who is passionate about Open Source software, Automation and Artificial Intelligence.
+- I am a Software engineer (SDET) who is passionate about Open Source software, Automation and Artificial Intelligence.
+- I specialize in software development with a passion for developing web applications and automation frameworks/tools. 
+- I love to create high-quality products that keep up with the latest trends in Technology and provide value to people and the society. 
+- I also have a keen interest on Data Science and Machine Learning. 
+- I am an avid learner of different tools, technologies, best practices and techniques(programming and testing).
+- I love to spend time reading books on technology and creating side-projects.
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -18,6 +25,13 @@ I am a Software engineer who is passionate about Open Source software, Automatio
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&color=2bbc8a)
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+## 📫 How to reach me or to see my posts on Technology
+
+- Email: sumondey@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sumon-dey/)
+- [Twitter](https://twitter.com/blackrov2sum)
+- [Website](http://www.sumondey.com)
 
 <!--
 **sumon-dey/sumon-dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,6 +26,16 @@
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+## 🌱 I’m currently learning about ...
+
+- Developing applications using the MERN (MongoDB, Express, React, Node) stack
+- Refactoring Principles and Techniques
+- Automation using Shell Scripting
+
+## 📝 [I write at ...](http://www.sumondey.com/)
+
+- I love to write blogs, articles and tutorials at [sumondey.com](http://www.sumondey.com/) on Automation, Programming, Artificial Intelligence, different tools, technologies, best practices and techniques.
+
 ## 📫 How to reach me or to see my posts on Technology
 
 - Email: sumondey@gmail.com

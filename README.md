@@ -34,7 +34,7 @@
 
 ## 📝 [I write at ...](http://www.sumondey.com/)
 
-- I love to write blogs, articles and tutorials at [sumondey.com](http://www.sumondey.com/) on Automation, Programming, Artificial Intelligence, different tools, technologies, best practices and techniques.
+- I love to write blogs, articles and tutorials at [sumondey.com](http://www.sumondey.com/) on Automation, Programming, Artificial Intelligence, different tools, technologies, best practices and techniques. I have also authored some articles on platforms like DZone, StickyMinds, QATouch and TestProject. One of my articles on Clean Coding was ranked in the "The World's Top 10 StickyMinds articles" for the year 2019.
 
 ## 📫 How to reach me or to see my posts on Technology
 

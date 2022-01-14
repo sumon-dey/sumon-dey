@@ -4,7 +4,7 @@
 
 ### Hi, I am Sumon Dey 👋
 
-- I am a Software engineer (SDET) who is passionate about Open Source software, Automation and Artificial Intelligence.
+- I am a Software engineer who is passionate about Programming, Open Source Software, Automation, Testing and Artificial Intelligence.
 - I specialize in software development with a passion for developing web applications and automation frameworks/tools. 
 - I love to create high-quality products that keep up with the latest trends in Technology and provide value to people and the society. 
 - I also have a keen interest on Data Science and Machine Learning. 
